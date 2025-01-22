@@ -20,6 +20,8 @@ Protein-Drug Complex Preparation: Prepare the protein-drug complex for MD simula
 
 Interaction Analysis: Use the Python scripts to analyze the interactions between the protein and the drug, including the identification of key interaction fingerprints.
 
-<p align="center">
+
 ![Image](https://github.com/user-attachments/assets/2e397ae9-07da-4a05-89ca-b3a524e8beb3)
-<p>
+
+
+

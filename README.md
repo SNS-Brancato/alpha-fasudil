@@ -19,3 +19,5 @@ Docking: Perform docking simulations to predict the binding mode of fasudil to a
 Protein-Drug Complex Preparation: Prepare the protein-drug complex for MD simulations in Amber by generating the necessary topology and parameter files.
 
 Interaction Analysis: Use the Python scripts to analyze the interactions between the protein and the drug, including the identification of key interaction fingerprints.
+
+![Image](https://github.com/user-attachments/assets/2e397ae9-07da-4a05-89ca-b3a524e8beb3)

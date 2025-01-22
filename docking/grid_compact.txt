@@ -1,0 +1,4 @@
+compact
+spacing    0.375
+npts       88 60 66
+center     0.367 -0.293 -0.072

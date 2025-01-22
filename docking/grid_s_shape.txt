@@ -1,0 +1,4 @@
+s_shape
+spacing    0.375
+npts       90 76 82
+center     6.716  0.000  0.000

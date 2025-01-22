@@ -1,0 +1,14 @@
+receptor = compact.pdbqt
+ligand = fasudil9p.pdbqt
+
+center_x = 6.716
+center_y = 0.000
+center_z = 0.000
+
+size_x = 90
+size_y = 76
+size_z = 82
+
+energy_range = 4
+
+exhaustiveness = 500

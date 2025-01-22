@@ -1,0 +1,4 @@
+elongated
+spacing    0.375
+npts       90 86 114
+center    18.923  4.552 -35.009

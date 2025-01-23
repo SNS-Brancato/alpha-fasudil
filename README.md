@@ -2,6 +2,15 @@
 
 This project aims to explore the interactions between the alpha-synuclein protein and the fasudil drug in the presence of Ca²⁺ ions.
 
+## Environment Setup
+
+The environment.yml file contains the necessary packages to reproduce the analysis. Use the following commands to set up the environment:
+```
+conda env create -f environment.yml
+conda activate alpha-fasudil-env
+```
+
+
 ## Project Structure
 
 docking/: Contains the necessary files to perform docking simulations using AutoDock Vina.

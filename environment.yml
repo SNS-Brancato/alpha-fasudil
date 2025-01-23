@@ -1,0 +1,15 @@
+name: prolif-mdanalysis-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9  # Specify the Python version you are using
+  - prolif  # For molecular interaction fingerprints
+  - mdanalysis  # For molecular dynamics analysis
+  - rdkit  # For cheminformatics tools
+  - pandas  # For data manipulation
+  - seaborn  # For data visualization
+  - matplotlib  # For plotting
+  - pip
+  - pip:
+      - numpy

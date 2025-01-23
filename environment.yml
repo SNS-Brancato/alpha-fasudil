@@ -1,4 +1,4 @@
-name: prolif-mdanalysis-env
+name: alpha-fasudil-env
 channels:
   - conda-forge
   - defaults
